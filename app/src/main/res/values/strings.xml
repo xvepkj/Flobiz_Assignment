@@ -1,5 +1,4 @@
 <resources>
-    <string name="app_name">Flobiz_Assignment</string>
-    <string name="affirmation1">I am strong.</string>
-    <string name="affirmation2">I believe in myself.</string>
+    <string name="app_name">Flobiz Assignment</string>
+    <string name="l1">This is item</string>
 </resources>
